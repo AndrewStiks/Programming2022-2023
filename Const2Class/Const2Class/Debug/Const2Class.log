@@ -1,0 +1,7 @@
+﻿  Const2Class.cpp
+C:\Users\Admin\Desktop\2022-Student\Programming2022-2023\Const2Class\Const2Class\Const2Class.cpp(9,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Admin\Desktop\2022-Student\Programming2022-2023\Const2Class\Const2Class\Const2Class.cpp(200,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\2022-Student\Programming2022-2023\Const2Class\Const2Class\Const2Class.cpp(201,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\2022-Student\Programming2022-2023\Const2Class\Const2Class\Const2Class.cpp(269,35): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\Admin\Desktop\2022-Student\Programming2022-2023\Const2Class\Const2Class\Debug\Const2Class.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
